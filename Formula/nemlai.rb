@@ -3,8 +3,8 @@ class Nemlai < Formula
 
   desc "CLI and Python SDK for automated grocery replenishment on Nemlig.com (Denmark)"
   homepage "https://nemlai.fly.dev"
-  url "https://files.pythonhosted.org/packages/33/ee/fd98cd3eae732aef5efd98bd8e04c3e17a4c732042b0c68b64db2cd1d775/nemlai-0.5.1.tar.gz"
-  sha256 "2dbad2f3ef2bb795ac449e617b76ca9625c467a6bb4e59b2a9834a09c2fde0f1"
+  url "https://files.pythonhosted.org/packages/d1/04/7e08e6f0e2db1a1a8d5b3b6f6e41f22629cab10e8a729de307d550a3e9c7/nemlai-0.5.2.tar.gz"
+  sha256 "7f00f0339311425663a251f2e9c6421a7131a933e7fa749db38c218afe51ecc1"
   license "MIT"
 
   depends_on "python@3.13"
