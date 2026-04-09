@@ -2,7 +2,7 @@ class Nemlai < Formula
   include Language::Python::Virtualenv
 
   desc "CLI and Python SDK for automated grocery replenishment on Nemlig.com (Denmark)"
-  homepage "https://nemlai.fly.dev"
+  homepage "https://nemlai.milops.org"
   url "https://files.pythonhosted.org/packages/3b/a9/484ac5a8c5bfca17b40e72e0511011ed91228703a77533a9ff2d88bcf0ca/nemlai-0.5.4.tar.gz"
   sha256 "020c303255324d87e1a09496f70fdeed36315662263ab2c4dcba9fae130eeb3b"
   license "MIT"
