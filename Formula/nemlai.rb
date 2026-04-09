@@ -3,8 +3,8 @@ class Nemlai < Formula
 
   desc "CLI and Python SDK for automated grocery replenishment on Nemlig.com (Denmark)"
   homepage "https://nemlai.fly.dev"
-  url "https://files.pythonhosted.org/packages/6b/69/49300bc94b861b5698a83e809e443dfe1b330fd794728d0b4792b6f436ac/nemlai-0.5.3.tar.gz"
-  sha256 "aedc4bace8ed323781d5c5fd6e7b9cb6610b3581977c9eb1605ae8a7adc54767"
+  url "https://files.pythonhosted.org/packages/3b/a9/484ac5a8c5bfca17b40e72e0511011ed91228703a77533a9ff2d88bcf0ca/nemlai-0.5.4.tar.gz"
+  sha256 "020c303255324d87e1a09496f70fdeed36315662263ab2c4dcba9fae130eeb3b"
   license "MIT"
 
   depends_on "python@3.13"
@@ -30,8 +30,8 @@ class Nemlai < Formula
     sha256 "f4324edc670a0f49750a81b895f35c3adb843cca46f0530f79fc1babb23789dc"
   end
   resource "anyio" do
-    url "https://files.pythonhosted.org/packages/96/f0/5eb65b2bb0d09ac6776f2eb54adee6abe8228ea05b20a5ad0e4945de8aac/anyio-4.12.1.tar.gz"
-    sha256 "41cfcc3a4c85d3f05c932da7c26d0201ac36f72abd4435ba90d0464a3ffed703"
+    url "https://files.pythonhosted.org/packages/19/14/2c5dd9f512b66549ae92767a9c7b330ae88e1932ca57876909410251fe13/anyio-4.13.0.tar.gz"
+    sha256 "334b70e641fd2221c1505b3890c69882fe4a2df910cba14d97019b90b24439dc"
   end
   resource "h11" do
     url "https://files.pythonhosted.org/packages/01/ee/02a2c011bdab74c6fb3c75474d40b3052059d95df7e73351460c8588d963/h11-0.16.0.tar.gz"
