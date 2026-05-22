@@ -3,8 +3,8 @@ class Nemlai < Formula
 
   desc "CLI and Python SDK for automated grocery replenishment on Nemlig.com (Denmark)"
   homepage "https://nemlai.milops.org"
-  url "https://files.pythonhosted.org/packages/ca/d2/5474c2350563057495a8b0a1c910060553bedb60ed72c7b6dc6d38bca8a1/nemlai-0.7.0.tar.gz"
-  sha256 "256574f11fc21985eedb1dea7c086aa6feb734b52643ec1f6f832fe3b3810989"
+  url "https://files.pythonhosted.org/packages/b9/35/cb49e9e116e5be4cab58768ab10a4ef2fa13da06f9c1356ae4cf41913670/nemlai-0.7.1.tar.gz"
+  sha256 "a42fe43deae41c4925dac149d03c123db86f7dbfa8b8d22b8596c75082b1b3f1"
   license "MIT"
 
   depends_on "python@3.13"
@@ -22,8 +22,8 @@ class Nemlai < Formula
     sha256 "69dea482ab64caa7b9f6aba1c6bf48bb6a5448d1c0f1b17ab42ad8c763a5344d"
   end
   resource "idna" do
-    url "https://files.pythonhosted.org/packages/82/77/7b3966d0b9d1d31a36ddf1746926a11dface89a83409bf1483f0237aa758/idna-3.15.tar.gz"
-    sha256 "ca962446ea538f7092a95e057da437618e886f4d349216d2b1e294abfdb65fdc"
+    url "https://files.pythonhosted.org/packages/1a/88/bcf9709822fe69d02c2a6a77956c98ce6ea8ca8767a9aadcedc7eb6a2390/idna-3.16.tar.gz"
+    sha256 "d7a6da03db833450fca25d2358ac9ff06cd624577a4aea3a596d5c0f77b8e03d"
   end
   resource "sniffio" do
     url "https://files.pythonhosted.org/packages/a2/87/a6771e1546d97e7e041b6ae58d80074f81b7d5121207425c964ddf5cfdbd/sniffio-1.3.1.tar.gz"
